@@ -34,3 +34,16 @@
 - [业务能力](https://github.com/ShenBao/front-end-notes/blob/master/md-2/15.md)
 - [总结](https://github.com/ShenBao/front-end-notes/blob/master/md-2/16.md)
 
+
+[第3部分：前端进阶必备](https://github.com/ShenBao/front-end-notes/blob/master/md-3/README.md)
+
+- [介绍](https://github.com/ShenBao/front-end-notes/blob/master/md-3/01.md)
+- [模块化、ES6、Promise](https://github.com/ShenBao/front-end-notes/blob/master/md-3/02.md)
+- [原型、实际应用、如何扩展](https://github.com/ShenBao/front-end-notes/blob/master/md-3/03.md)
+- [异步、单线程、event-loop、异步方案、Promise的标准、async、wait的使用](https://github.com/ShenBao/front-end-notes/blob/master/md-3/04.md)
+- [VDOM、核心函数、diff算法](https://github.com/ShenBao/front-end-notes/blob/master/md-3/05.md)
+- [MVVM、VUe响应式、模板解析](https://github.com/ShenBao/front-end-notes/blob/master/md-3/06.md)
+- [组件化、JSX、VDOM、setState](https://github.com/ShenBao/front-end-notes/blob/master/md-3/07.md)
+- [Hybrid、区别、通信](https://github.com/ShenBao/front-end-notes/blob/master/md-3/08.md)
+- [其他：写博客、开源](https://github.com/ShenBao/front-end-notes/blob/master/md-3/09.md)
+
