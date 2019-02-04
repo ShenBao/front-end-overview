@@ -63,3 +63,15 @@
 - [总结](https://github.com/ShenBao/front-end-notes/blob/master/md-4/11.md)
 
 
+[第5部分：前端之性能优化基础](https://github.com/ShenBao/front-end-notes/blob/master/md-5/README.md)
+
+- [web前端性能优化](https://github.com/ShenBao/front-end-notes/blob/master/md-5/01.md)
+- [资源的合并与压缩](https://github.com/ShenBao/front-end-notes/blob/master/md-5/02.md)
+- [图片相关的优化](https://github.com/ShenBao/front-end-notes/blob/master/md-5/03.md)
+- [css和js的装载与执行](https://github.com/ShenBao/front-end-notes/blob/master/md-5/04.md)
+- [懒加载与预加载](https://github.com/ShenBao/front-end-notes/blob/master/md-5/05.md)
+- [重绘与回流](https://github.com/ShenBao/front-end-notes/blob/master/md-5/06.md)
+- [浏览器存储](https://github.com/ShenBao/front-end-notes/blob/master/md-5/07.md)
+- [缓存](https://github.com/ShenBao/front-end-notes/blob/master/md-5/08.md)
+- [服务端性能优化](https://github.com/ShenBao/front-end-notes/blob/master/md-5/09.md)
+
